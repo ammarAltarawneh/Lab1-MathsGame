@@ -55,6 +55,7 @@
                 throw;
             }
 
+
             Console.WriteLine($"The quotient of the product divided by the nmber you had chosen is: {quotient}");
         }
 
